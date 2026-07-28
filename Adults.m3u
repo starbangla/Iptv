@@ -1,97 +1,94 @@
 #EXTM3U
-#EXTINF:-1,MyCamTV XXX Vod #1
-https://vod.mycamtv.net/1.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #2
-https://vod.mycamtv.net/2.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #3
-https://vod.mycamtv.net/3.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #4
-https://vod.mycamtv.net/4.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #5
-https://vod.mycamtv.net/5.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #6
-https://vod.mycamtv.net/6.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #7
-https://vod.mycamtv.net/7.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #8
-https://vod.mycamtv.net/8.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #9
-https://vod.mycamtv.net/9.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #10
-https://vod.mycamtv.net/10.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #11
-https://vod.mycamtv.net/11.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #12
-https://vod.mycamtv.net/12.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #13
-https://vod.mycamtv.net/13.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #14
-https://vod.mycamtv.net/14.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #15
-https://vod.mycamtv.net/15.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #16
-https://vod.mycamtv.net/16.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #17
-https://vod.mycamtv.net/17.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #18
-https://vod.mycamtv.net/18.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #19
-https://vod.mycamtv.net/19.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #20
-https://vod.mycamtv.net/20.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #21
-https://vod.mycamtv.net/21.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #22
-https://vod.mycamtv.net/22.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #23
-https://vod.mycamtv.net/23.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #24
-https://vod.mycamtv.net/24.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #25
-https://vod.mycamtv.net/25.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #26
-https://vod.mycamtv.net/26.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #27
-https://vod.mycamtv.net/27.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #28
-https://vod.mycamtv.net/28.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #29
-https://vod.mycamtv.net/29.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #30
-https://vod.mycamtv.net/30.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #31
-https://vod.mycamtv.net/31.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #32
-https://vod.mycamtv.net/32.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #33
-https://vod.mycamtv.net/33.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #34
-https://vod.mycamtv.net/34.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #35
-https://vod.mycamtv.net/35.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #36
-https://vod.mycamtv.net/36.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #37
-https://vod.mycamtv.net/37.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #38
-https://vod.mycamtv.net/38.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #39
-https://vod.mycamtv.net/39.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #40
-https://vod.mycamtv.net/40.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #41
-https://vod.mycamtv.net/41.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #42
-https://vod.mycamtv.net/42.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #43
-https://vod.mycamtv.net/43.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #44
-https://vod.mycamtv.net/44.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #45
-https://vod.mycamtv.net/45.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #46
-https://vod.mycamtv.net/46.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #47
-https://vod.mycamtv.net/47.m3u8
-#EXTINF:-1,MyCamTV XXX Vod #48
-https://vod.mycamtv.net/48.m3u8
+
+#EXTINF:-0 tvg-logo="https://ic-vt-nss.xhcdn.com/a/ZDcxYmFmZDNlMDZlZTE0MGY0NDhlNGFjZjdiOTcxM2U/s(w:640,h:360),webp/026/904/105/1280x720.17518888.jpg"group-title="INDIA", HOT INDIAN TEACHERESS FUCKING BY HER BAD STUDENT IN TUITION ROOM
+https://video-nss.xhcdn.com/P5PM6DKMKGRGhlPr_cPMCw==,1785279600/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:/026/904/105/_TPL_.av1.mp4.m3u8
+
+#EXTINF:-0 tvg-logo="https://ic-vt-nss.xhcdn.com/a/MGNjOGU5OWM1YzViOTU0NDYxMzY3OGQ5ZmI3MWZhN2M/s(w:640,h:360),webp/029/601/468/v2/2560x1440.237.webp"group-title="INDIA", Old man affair with daughter-in -law, when his son was not at home, cum in mouth
+https://video-nss.xhcdn.com/cESNeFjRLXRdg6N9oh0wrw==,1785279600/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:/029/601/468/_TPL_.av1.mp4.m3u8
+
+#EXTINF:-0 tvg-logo="https://ic-vt-nss.xhcdn.com/a/NzNiMDY2MmU2NDI3MDlmMzk3YjVmMjdlMjQ5ZDEwYWE/s(w:640,h:360),webp/029/321/510/v2/2560x1440.247.webp"group-title="INDIA", Stepsister is angry after seeing my cock, is asking stepbrother for help
+https://video3.xhcdn.com/key=+JEn13HB+TF8fHQ+8jmsww,end=1785283200/data=103.16.24.190-mv/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:,1920x1080:1080p:/029/321/510/_TPL_.av1.mp4.m3u8
+
+#EXTINF:-0 tvg-logo="https://i.pinimg.com/736x/70/65/f3/7065f3203ee3972aee4e4e175912a0c4.jpg"group-title="India", Xteream Sports
+http://172.21.22.23:8080/Webtvservice/Webtvservice/170.m3u8
+
+#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Toffee%20Sports%20.png"group-title="Bangladesh", Toffee Sports
+#http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+
+#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmFoPweZnfu7OtSZdBphIN-ZMq-sxoo7ubjD9gRrrFEw&s=10"group-title="India", World Sports
+http://172.21.22.23:8080/Webtvservice/Webtvservice/171.m3u8
+
+#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Willow%20Sports%20.png"group-title="India", Willow
+http://172.21.22.23:8080/Webtvservice/Webtvservice/172.m3u8
+
+#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzFzqmSQXkln2N1TNRZxfskjAX0pJUWbKRo0xblAe1ng&s=10"group-title="India", Sky Sports Golf Hd
+http://172.21.22.23:8080/Webtvservice/Webtvservice/168.m3u8
+
+#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Sony%20Live%20.png"group-title="India",  Sony Live
+#https://livegeoroueu.akamaized.net/28072023/smil:9xmusic.smil/playlist.m3u8
+
+#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/A%20Sports%20.png"group-title="India", A Sports
+http://172.21.22.23:8080/Webtvservice/Webtvservice/174.m3u8
+
+#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSgAYdBSXrk_VnRJXjfYIOHZVdmxFZIhHSLrAoRAhThA&s=10"group-title="India", Euro Sports Hd
+http://172.21.22.23:8080/Webtvservice/Webtvservice/175.m3u8
+
+#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_M-492uCfesMvCcYpV5YX6m44IDfEgYHqfkR6lmLHHg&s=10"group-title="India", P Sports
+http://172.21.22.23:8080/Webtvservice/Webtvservice/173.m3u8
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/960px-Star_Sports_1_HD.png?_=20221025095646"group-title="India", Star Sports 1 HD
+http://172.21.22.23:8080/Webtvservice/Webtvservice/154.m3u8
+
+#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359"group-title="India", Star Sports 2 HD
+http://172.21.22.23:8080/Webtvservice/Webtvservice/155.m3u8
+
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0e/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F.png"group-title="India", Star Sports 3 HD
+http://172.21.22.23:8080/Webtvservice/Webtvservice/158.m3u8
+
+#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/SS2_Hindi_HD.jpg/revision/latest/scale-to-width-down/250?cb=20250609103441"group-title="India", Star Sports Hindi 2 HD"
+http://172.21.22.23:8080/Webtvservice/Webtvservice/159.m3u8
+
+#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQ6P6yQZ0PAcIsap_Iwx-XeGabdccrY4t84VLs-TSvg&s=10"group-title="India", Star Sports Select 1 HD
+http://172.21.22.23:8080/Webtvservice/Webtvservice/156.m3u8
+
+#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png/revision/latest?cb=20230128175646"group-title="India", Star Sports Select 2 HD
+http://172.21.22.23:8080/Webtvservice/Webtvservice/157.m3u8
+
+#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZwENfthD-Q8XcnBbM-jr9buNEVyDEO4UGvIjK8yhAdg&s=10"group-title="India", Sony Ten 1 HD
+http://172.21.22.23:8080/Webtvservice/Webtvservice/160.m3u8
+
+#EXTINF:-0 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/9c0fc822845789953d3be9c29bb6f0cd.png"group-title="India", Sony Ten 2 HD
+http://172.21.22.23:8080/Webtvservice/Webtvservice/155.m3u8
+
+#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK6VIw4mWu5JAt_UV296LnL9wg0Cy6WqNfAzNHKlR2mA&s=10"group-title="India", Sony Ten 3 HD
+http://172.21.22.23:8080/Webtvservice/Webtvservice/162.m3u8
+
+#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6uUOOBbnluWzT3Kvkaspqlwx7l77bC2nLjDh__SAJwg&s=10"group-title="India", Sony Ten 5 HD
+http://172.21.22.23:8080/Webtvservice/Webtvservice/163.m3u8
+
+#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/TNT_Sports_1_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20260225232947"group-title="India", Tnt Sports 1 HD
+http://172.21.22.23:8080/Webtvservice/Webtvservice/164.m3u8
+
+#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TNT_Sports_2_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20260225233941"group-title="India",  Tnt Sports 2 HD
+http://172.21.22.23:8080/Webtvservice/Webtvservice/165.m3u8
+
+#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/TNT_Sports_3_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20260225234939"group-title="India", Tnt Sports 3 HD
+http://172.21.22.23:8080/Webtvservice/Webtvservice/166.m3u8
+
+#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/TNT_Sports_4_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20260225235815"group-title="India", Tnt Sports 4 HD
+http://172.21.22.23:8080/Webtvservice/Webtvservice/167.m3u8
+
+#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Ten%20Sports%20.png"group-title="India", P Sports
+#http://172.21.22.23:8080/Webtvservice/Webtvservice/173.m3u8
+
+#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Ten%20Sports%20.png"group-title="India", Star Sports 1 HD
+#http://172.21.22.23:8080/Webtvservice/Webtvservice/154.m3u8
+
+#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Ten%20Sports%20.png"group-title="India", Star Sports 2 HD
+#http://172.21.22.23:8080/Webtvservice/Webtvservice/155.m3u8
+
+#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Ten%20Sports%20.png"group-title="India", Star Sports 3 HD
+#http://172.21.22.23:8080/Webtvservice/Webtvservice/158.m3u8
+
+#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Ten%20Sports%20.png"group-title="India", Star Sports Hindi 2 HD"
+#http://172.21.22.23:8080/Webtvservice/Webtvservice/159.m3u8
