@@ -22,7 +22,7 @@ http://172.21.22.23:8080/Webtvservice/Webtvservice/180.m3u8
 #http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-8 tvg-logo="https://i.ibb.co/x31cTMB/image-search-1714283123367.png"group-title="Bangladesh", The Tv
-https://live.hungama.com/linear/dil-se/playlist.m3u8
+#https://live.hungama.com/linear/dil-se/playlist.m3u8
 
 #EXTINF:-9 tvg-logo="https://i.ibb.co/XpVQhfP/image-search-1714283589749.jpg"group-title="Bangladesh",  Ekushey Tv
 #https://ekusheyserver.com/etvlivesn.m3u8
@@ -40,7 +40,7 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8
 #https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=PuEaOtMSlMNfYjhvwlsz9w&expires=1728493301&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-14 tvg-id="1726ae10" tvg-name="Deepto TV HD" tvg-logo="https://i.postimg.cc/Jh8rc7Dn/Deepto-TV-HD.png" tvg-chno="1" group-title="Bangladesh",Deepto TV HD
-#https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
+https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 
 #EXTINF:-15 tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="Bangladesh", Nagorik Tv
 #https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=AThHfArqU5ggKEQqM1a3Ug&expires=1728493714&user=d477246e9e724f81a011b847457e71c4
@@ -73,7 +73,7 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8
 #https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=shB_6MCSXhrhmU7hixuAoQ&expires=1728493318&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-25 tvg-logo="https://i.ibb.co/4WkdQQs/image-search-1714012794646.png"group-title="Bangladesh", Desh Tv
-#https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-26 tvg-id="66c4b0b8" tvg-name="Asian TV" tvg-logo="https://i.postimg.cc/ncXG94c4/Asian-TV.png" tvg-chno="5" group-title="Bangladesh",Asian TV
 #https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=WlHx8ZBe2zFUC6V9WOuRgw&expires=1728493130&user=d477246e9e724f81a011b847457e71c4
@@ -90,7 +90,7 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF:-30 tvg-logo="https://i.ibb.co/NLhXXzb/image-search-1714239423135.png"group-title="Bangladesh", Rajdhani
 #http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 
-#EXTINF:-31 tvg-logo="https://i.ibb.co/SQTFHfK/image-search-1714244071090.jpg"group-title="Bangladesh", Gazi Tv
+#EXTINF:-31 tvg-logo="images/gazitvhd.jpg"group-title="Bangladesh", Gazi Tv
 http://172.21.22.23:8080/Webtvservice/Webtvservice/176.m3u8
 
 #EXTINF:-32 tvg-logo="https://i.ibb.co/vzzxtj4/image-search-1714244974639"group-title="Bangladesh", Ekhon Tv
