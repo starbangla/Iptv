@@ -28,7 +28,7 @@ Sangsad Television
 Maasranga Tv 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/FHYZxwZJ/Maasranga-Tv.png", Maasranga Tv
-http://172.16.200.205:8088/206/index.m3u8
+#http://172.16.200.205:8088/206/index.m3u8
 
 Movie Bangla 
 
@@ -128,7 +128,7 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 Desh 6 Tv 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/fRVKv1KB/Dish-6.png", Desh 6 Tv
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 Asian TV 
 
@@ -143,7 +143,7 @@ Global
 ATN Bangla HD 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/hGx1kxNg/Atn-Bangla.png", ATN Bangla HD
-http://172.16.200.205:8088/202/index.m3u8
+#http://172.16.200.205:8088/202/index.m3u8
 
 Nexus 
 
@@ -193,7 +193,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 VARENDRA TV 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/varendro-tv.jpg?x13834", VARENDRA TV
-https://app.ncare.live/streams/varendratv.stream/playlist.m3u8
+#https://app.ncare.live/streams/varendratv.stream/playlist.m3u8
 
 
 
