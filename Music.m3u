@@ -1,73 +1,158 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/App/STAR%20FLIX%20.png"group-title="JOIN OUR TELEGRAM", t.me/Star_Flix_Official
-#https://t.me/Star_Flix_Official.m3u8
+Star Bangla Official
 
-#EXTINF:-2 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Music/Sangeet%20bangla%20.png"group-title="Kolkata", Sangeet bangla
-http://172.21.22.23:8080/Webtvservice/Webtvservice/183.m3u8
+#EXTINF:-1 group-title="JOIN OUR TELEGRAM" tvg-logo="https://lh3.googleusercontent.com/u/0/d/1nkYt8oKcr-3ccsZAzxUvqbBuKQKTupA1", Star Bangla Official
+#https://www.dropbox.com/scl/fi/i8wq67ze28k3a3hyh8nxw/lv_0_20260119120310.mp4?rlkey=g2j8gzh4sgrcnl7mv8k2yys69&st=erfxx6pz&raw=1
 
-#EXTINF:-3 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Music/Sangeet%20Bojpuri%20.png"group-title="India", Sangeet Buojpuri
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=2137600.m3u8
+Zoom Music
 
-#EXTINF:-4 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Music/Zoom%20.png"group-title="India", Zoom
-#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/JhjPKmv5/Zoom-Music.png", Zoom Music
+https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 
-#EXTINF:-5 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Music/Masti%20.png"group-title="India", Masti
-#https://sabliveyupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/dbf4e1ae-2414-4577-8d75-45321869598e/2.m3u8
+Zing Music
 
-#EXTINF:-6 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Music/Music%20India%20.png"group-title="India", Music India
-#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/wBD0FHZk/Zing-Music.png", Zing Music
+http://172.21.22.23:8080/Webtvservice/Webtvservice/187.m3u8
 
-#EXTINF:-7 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Music/Mon%20Bangla%20.png"group-title="Kolkata", Mon Bangla
-https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+Zee Music
 
-#EXTINF:-8 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Music/Dil%20Se%20.png"group-title="India", Dilse Tv
-#https://live.hungama.com/linear/dil-se/playlist.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/KYtJQFw7/Zee-Music.png", Zee Music
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
-#EXTINF:-9 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Music/9XM%20.png"group-title="India",  9XM
+YRF Music
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/N0RpbYS4/Yrf-Music.png", YRF Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+T-Serise
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/Dz1B5FHN/T-Series.png", T-Series
+#https://entezeetv.fun/bdcast/hls/index.m3u8?id=cZtxlaRR&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+
+Music India
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/G2rz5V1h/Music-India.png", Music India
+https://cdn-2.pishow.tv/live/226/master.m3u8
+
+Mbeats
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/G2rz5V1G/Mbeats-Tv-Music.png", Mbeats Music
+#http://172.16.200.205:8088/206/index.m3u8
+
+Masti
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/TwGQ4FX5/Masti-Music.png", Masti Music
+#http://172.16.200.205:8088/206/index.m3u8
+
+Hungama
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/ZRcjtHTW/Hungama-Music.png", Hungama Music
+#http://172.16.200.205:8088/206/index.m3u8
+
+Dilse Music
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/wvVF826R/Dil-se-Music.png", Dilse Music
+#http://172.16.200.205:8088/206/index.m3u8
+
+B4U Music
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/Px4KsytW/B4U-Music.png", B4U Music
+#http://172.16.200.205:8088/206/index.m3u8
+
+9xm Music
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/26wTRGzK/9XM.png", 9XM
 http://172.21.22.23:8080/Webtvservice/Webtvservice/184.m3u8
 
-#EXTINF:-10 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Music/YRF%20Music%20.png"group-title="India", YRF Music
-#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/5e60e1a9-c796-4bf2-ab37-a1d9c98ca0b3/4.m3u8
+Saregama India
 
-#EXTINF:-11 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Music/Saragama%20Boujpuri%20.png"group-title="India", Saregama Buojpuri
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/R0wXG9yj/Saregama-India.png", Saragama India
+#http://172.16.200.205:8088/206/index.m3u8
+
+Saregama Bojpuri
+
+#EXTINF:-1 group-title="BOJPURI" tvg-logo="https://i.postimg.cc/R0wXG925/Saregama-Bojpuri.png", Saregama Bojpuri
+https://cdn-4.pishow.tv/live/1293/mastr.m3u8
+
+Sangeet Bojpuri
+
+#EXTINF:-1 group-title="BOJPURI" tvg-logo="https://i.postimg.cc/9fyJ1VsF/Sangeet-Bojpuri.png", Sangeet Bojpuri
+https://cdn-4.pishow.tv/live/1293/master.m3u8
+
+Sangeet Bangla
+
+#EXTINF:-1 group-title="KOLKATA BANGLA" tvg-logo="https://i.postimg.cc/QMc0Ssvr/Sangeet-Bangla.png", Sangeet Bangla
+http://172.21.22.23:8080/Webtvservice/Webtvservice/183.m3u8
+
+Mon Bangla
+
+#EXTINF:-1 group-title="KOLKATA BANGLA" tvg-logo="https://i.postimg.cc/76DXWdyG/Mon-Bangla-Music.png", Mon Bangla
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+
+Doom Music
+
+#EXTINF:-1 group-title="KOLKATA BANGLA" tvg-logo="https://i.postimg.cc/ZRcjtHTp/DOOM-MUSIC.png", Doom Music
 #https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 
-#EXTINF:-12 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Music/Hungama%20.png"group-title="India", Hungama
-#https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+RTV Music
 
-#EXTINF:-13 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Music/Saragama%20India%20.png"group-title="India", Saregama India
-#http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/KzFQHwyY/RTV-Music.png", RTV Music
+#https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=PuEaOtMSlMNfYjhvwlsz9w&expires=1728493301&user=d477246e9e724f81a011b847457e71c4
 
-#EXTINF:-14 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Music/Kiss%20Tv%20.png"group-title="India", Kiss Music
-#https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+Gaan Bangla
 
-#EXTINF:-15 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Music/R%20TV%20Music%20.png"group-title="Bangladesh", R Tv Music 
-#https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/ZRcjtHT9/GB-Music.png", Gaan Bangla
+#https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 
-#EXTINF:-16 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Music/ATN%20Music%20.png"group-title="Bangladesh", ATN Music
-#https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+Channel S
 
-#EXTINF:-17 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Music/Gaan%20Bangla%20.png"group-title="Bangladesh", Gaan Bangla
-#https://livegeoroueu.akamaized.net/28072023/smil:9xmusic.smil/playlist.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/76VX89x1/Channel-S-Music.png", Channel S
+#https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=AThHfArqU5ggKEQqM1a3Ug&expires=1728493714&user=d477246e9e724f81a011b847457e71c4
 
-#EXTINF:-18 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Music/Dhoom%20.png"group-title="Kolkata", Dhoom Music
-#https://ekusheyserver.com/etvlivesn.m3u8
+ATN Music
 
-#EXTINF:-19 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Music/Channel%20S%20.png"group-title="Bangladesh", Channel S
-#https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDI0IDc6NDA6NTEgQU0maGFzaF92YWx1ZT1FNFJrbW1aRU94b2RBeERpVkVVRkFBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/d1BnP6qj/ATN-BANGLA-MUSIC.png", ATN Bangla Music
+#https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
 
-#EXTINF:-20 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Music/Zing%20.png"group-title="India", Zing
-#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing1/default/zing.m3u8
+Kiss Tv
 
-#EXTINF:-21 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Music/Zee%20Music%20.png"group-title="India", Zee Music
-#http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/bJ8LBWj0/Kiss-Tv-Music.png", Kiss Tv
+#https://mytvbangla.com/0.m3u8
 
-#EXTINF:-22 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Music/T%20Series%20.png"group-title="India", T Series
-#https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
-#EXTINF:-23 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Music/M%20TV%20.png"group-title="India", M TV
-#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
 
-#EXTINF:-24 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Music/M%20TV%20.png"group-title="India", B4U music 
-#https://cdn2.pishow.tv/live/141/master.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
