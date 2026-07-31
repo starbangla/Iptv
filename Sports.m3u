@@ -1,94 +1,162 @@
 #EXTM3U
 
-#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/App/STAR%20FLIX%20.png"group-title="JOIN OUR TELEGRAM", t.me/Star_Flix_Official 
-#https://t.me/Star_Flix_Official.m3u8
+Star Bangla Official
 
-#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/T%20Sports%20.png"group-title="Bangladesh", T Sports
+#EXTINF:-1 group-title="JOIN OUR TELEGRAM" tvg-logo="https://lh3.googleusercontent.com/u/0/d/1nkYt8oKcr-3ccsZAzxUvqbBuKQKTupA1", Star Bangla Official
+https://www.dropbox.com/scl/fi/i8wq67ze28k3a3hyh8nxw/lv_0_20260119120310.mp4?rlkey=g2j8gzh4sgrcnl7mv8k2yys69&st=erfxx6pz&raw=1
+
+T Sports
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/GhF2FG8t/T-Sports.png", T Sports
 http://172.21.22.23:8080/Webtvservice/Webtvservice/153.m3u8
 
-#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYef4Dq2cqKoQQaMyKD0O3iTrL6c9yMVWTOCHLHmpHIQ&s=10"group-title="India", Fubo Sports
+Fubo Sports
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/VLQv0D68/Fubo-Sports.png", Fubo Sports
 http://172.21.22.23:8080/Webtvservice/Webtvservice/169.m3u8
 
-#EXTINF:-0 tvg-logo="https://i.pinimg.com/736x/70/65/f3/7065f3203ee3972aee4e4e175912a0c4.jpg"group-title="India", Xteream Sports
+Xteream Sports
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/dtP3Z41K/Extreme-Sports.png", Xteream Sports
 http://172.21.22.23:8080/Webtvservice/Webtvservice/170.m3u8
 
-#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Toffee%20Sports%20.png"group-title="Bangladesh", Toffee Sports
-#http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+Toffee Sports
 
-#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmFoPweZnfu7OtSZdBphIN-ZMq-sxoo7ubjD9gRrrFEw&s=10"group-title="India", World Sports
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/qMVq6jRv/Toffee-Sports.png", Toffee Sports
+https://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=d
+
+World Sports
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/WbLzqX4Q/World-Sports.png", World Sports
 http://172.21.22.23:8080/Webtvservice/Webtvservice/171.m3u8
 
-#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Willow%20Sports%20.png"group-title="India", Willow
+Willow
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/X7SqBQJV/Willow-Sports.png", Willow
 http://172.21.22.23:8080/Webtvservice/Webtvservice/172.m3u8
 
-#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzFzqmSQXkln2N1TNRZxfskjAX0pJUWbKRo0xblAe1ng&s=10"group-title="India", Sky Sports Golf Hd
+Sky Sports Golf Hd
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/tCQJn2T0/Sky-Sports-Golf.png", Sky Sports Golf Hd
 http://172.21.22.23:8080/Webtvservice/Webtvservice/168.m3u8
 
-#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Sony%20Live%20.png"group-title="India",  Sony Live
-#https://livegeoroueu.akamaized.net/28072023/smil:9xmusic.smil/playlist.m3u8
+Sony Live
 
-#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/A%20Sports%20.png"group-title="India", A Sports
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/fTcLcmtq/Sony-Live.png", Sony Live
+https://www.dropbox.com/scl/fi/i8wq67ze28k3a3hyh8nxw/lv_0_20260119
+
+A Sports
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/bwqv3rk3/A-Sports.png", A Sports
 http://172.21.22.23:8080/Webtvservice/Webtvservice/174.m3u8
 
-#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSgAYdBSXrk_VnRJXjfYIOHZVdmxFZIhHSLrAoRAhThA&s=10"group-title="India", Euro Sports Hd
+Euro Sports Hd
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/59FjtZxb/Euro-Sports.png", Euro Sports Hd
 http://172.21.22.23:8080/Webtvservice/Webtvservice/175.m3u8
 
-#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_M-492uCfesMvCcYpV5YX6m44IDfEgYHqfkR6lmLHHg&s=10"group-title="India", P Sports
+P Sports
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/Y2mjSJpt/P-Sports.png", P Sports
 http://172.21.22.23:8080/Webtvservice/Webtvservice/173.m3u8
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/960px-Star_Sports_1_HD.png?_=20221025095646"group-title="India", Star Sports 1 HD
+Star Sports 1 HD
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/28Q6Qhbb/Star-Sports-1.png", Star Sports 1 HD
 http://172.21.22.23:8080/Webtvservice/Webtvservice/154.m3u8
 
-#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359"group-title="India", Star Sports 2 HD
+Star Sports 2 HD
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/FsyRy3dY/Star-Sports-2.png", Star Sports 2 HD
 http://172.21.22.23:8080/Webtvservice/Webtvservice/155.m3u8
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0e/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F.png"group-title="India", Star Sports 3 HD
+Star Sports 3 HD
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/ZK8R8pB0/Star-Sports-3.png", Star Sports 3 HD
 http://172.21.22.23:8080/Webtvservice/Webtvservice/158.m3u8
 
-#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/SS2_Hindi_HD.jpg/revision/latest/scale-to-width-down/250?cb=20250609103441"group-title="India", Star Sports Hindi 2 HD"
-http://172.21.22.23:8080/Webtvservice/Webtvservice/159.m3u8
+Star Sports Hindi 2 HD
 
-#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQ6P6yQZ0PAcIsap_Iwx-XeGabdccrY4t84VLs-TSvg&s=10"group-title="India", Star Sports Select 1 HD
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/RhD43mL1/Star-Sports-Hindi_2.png", Star Sports Hindi 2 HD"
+http://172.21.22.23:8080/Webtvservice/Webtvservice/168.m3u8
+
+Star Sports Select 1 HD
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/NGrL0WgY/Star-Sports-Select-1.png", Star Sports Select 1 HD
 http://172.21.22.23:8080/Webtvservice/Webtvservice/156.m3u8
 
-#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png/revision/latest?cb=20230128175646"group-title="India", Star Sports Select 2 HD
+Star Sports Select 2 HD
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/8c0NFGmh/Star-Sports-Select-2.png", Star Sports Select 2 HD
 http://172.21.22.23:8080/Webtvservice/Webtvservice/157.m3u8
 
-#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZwENfthD-Q8XcnBbM-jr9buNEVyDEO4UGvIjK8yhAdg&s=10"group-title="India", Sony Ten 1 HD
+Sony Ten 1 HD
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/CLG1GkB4/Sony-Sports-1.png", Sony Ten 1 HD
 http://172.21.22.23:8080/Webtvservice/Webtvservice/160.m3u8
 
-#EXTINF:-0 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/9c0fc822845789953d3be9c29bb6f0cd.png"group-title="India", Sony Ten 2 HD
+Sony Ten 2 HD
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/m2YDYCzX/Sony-Sports-2.png", Sony Ten 2 HD
 http://172.21.22.23:8080/Webtvservice/Webtvservice/155.m3u8
 
-#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK6VIw4mWu5JAt_UV296LnL9wg0Cy6WqNfAzNHKlR2mA&s=10"group-title="India", Sony Ten 3 HD
+Sony Ten 3 HD
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/SN6s6C2C/Sony-Sports-3.png", Sony Ten 3 HD
 http://172.21.22.23:8080/Webtvservice/Webtvservice/162.m3u8
 
-#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6uUOOBbnluWzT3Kvkaspqlwx7l77bC2nLjDh__SAJwg&s=10"group-title="India", Sony Ten 5 HD
+Sony Ten 4 HD
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/kXQ4QK68/Sony-Sports-4.png", Sony Ten 4 HD
+http://172.21.22.23:8080/Webtvservice/Webtvservice/171.m3u8
+
+Sony Ten 5 HD
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/QxQtQ197/Sony-Sports-5.png", Sony Ten 5 HD
 http://172.21.22.23:8080/Webtvservice/Webtvservice/163.m3u8
 
-#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/TNT_Sports_1_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20260225232947"group-title="India", Tnt Sports 1 HD
+Tnt Sports 1 HD
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/ZKtnvVR6/Tnt-Sports-1.png", Tnt Sports 1 HD
 http://172.21.22.23:8080/Webtvservice/Webtvservice/164.m3u8
 
-#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TNT_Sports_2_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20260225233941"group-title="India",  Tnt Sports 2 HD
+Tnt Sports 2 HD
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/28RyL26v/Tnt-Sports-2.png", Tnt Sports 2 HD
 http://172.21.22.23:8080/Webtvservice/Webtvservice/165.m3u8
 
-#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/TNT_Sports_3_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20260225234939"group-title="India", Tnt Sports 3 HD
+Tnt Sports 3 HD
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/dtP3Z41y/TNt-Sports-3.png", Tnt Sports 3 HD
 http://172.21.22.23:8080/Webtvservice/Webtvservice/166.m3u8
 
-#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/TNT_Sports_4_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20260225235815"group-title="India", Tnt Sports 4 HD
+Tnt Sports 4 HD
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/02RjKcQJ/Tnt-Sports-4.png", Tnt Sports 4 HD
 http://172.21.22.23:8080/Webtvservice/Webtvservice/167.m3u8
 
-#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Ten%20Sports%20.png"group-title="India", P Sports
-#http://172.21.22.23:8080/Webtvservice/Webtvservice/173.m3u8
+Fancode
 
-#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Ten%20Sports%20.png"group-title="India", Star Sports 1 HD
-#http://172.21.22.23:8080/Webtvservice/Webtvservice/154.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/59FjtZxJ/Fancode-Live.png", Fancode Live
+http://172.21.22.23:8080/Webtvservice/Webtvservice/168.m3u8
 
-#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Ten%20Sports%20.png"group-title="India", Star Sports 2 HD
-#http://172.21.22.23:8080/Webtvservice/Webtvservice/155.m3u8
+Sky Sports 
 
-#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Ten%20Sports%20.png"group-title="India", Star Sports 3 HD
-#http://172.21.22.23:8080/Webtvservice/Webtvservice/158.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/m2YDYCzn/Sky-Sports.png", Sky Sports 
+http://172.21.22.23:8080/Webtvservice/Webtvservice/156.m3u8
 
-#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/Sports/Ten%20Sports%20.png"group-title="India", Star Sports Hindi 2 HD"
-#http://172.21.22.23:8080/Webtvservice/Webtvservice/159.m3u8
+Sports 18
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/15GtGwnV/Sports-18.png", Sports 18
+http://172.21.22.23:8080/Webtvservice/Webtvservice/157.m3u8
+
+Ten Sports
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/m2fk18Dr/Ten-Sports.png", TEN Sports
+http://172.21.22.23:8080/Webtvservice/Webtvservice/160.m3u8
+
+WWE
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/wT8MR0vx/WWE-Sports.png", WWE Sports
+http://172.21.22.23:8080/Webtvservice/Webtvservice/155.m3u8
+
