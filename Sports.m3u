@@ -143,17 +143,17 @@ Fancode
 Sky Sports 
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/m2YDYCzn/Sky-Sports.png", Sky Sports 
-http://172.21.22.23:8080/Webtvservice/Webtvservice/156.m3u8
+#http://172.21.22.23:8080/Webtvservice/Webtvservice/156.m3u8
 
 Sports 18
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/15GtGwnV/Sports-18.png", Sports 18
-http://172.21.22.23:8080/Webtvservice/Webtvservice/157.m3u8
+#http://172.21.22.23:8080/Webtvservice/Webtvservice/157.m3u8
 
 Ten Sports
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/m2fk18Dr/Ten-Sports.png", TEN Sports
-http://172.21.22.23:8080/Webtvservice/Webtvservice/160.m3u8
+#http://172.21.22.23:8080/Webtvservice/Webtvservice/160.m3u8
 
 WWE
 
