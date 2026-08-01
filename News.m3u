@@ -1,46 +1,102 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/StarFlixofficial/Personal-File/refs/heads/main/Channels%20Logo/App/STAR%20FLIX%20.png" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠", Star Flix Official
-#https://t.me/Star_Flix_Official
+Star Bangla Official
 
-#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Somoy News" tvg-logo="https://i.postimg.cc/4yvnV8sK/Somoy-TV.png" tvg-chno="2" group-title="𝗡𝗘𝗪𝗦",Somoy News
-http://172.21.22.23:8080/Webtvservice/Webtvservice/182.m3u8
+#EXTINF:-1 group-title="JOIN OUR TELEGRAM" tvg-logo="https://lh3.googleusercontent.com/u/0/d/1nkYt8oKcr-3ccsZAzxUvqbBuKQKTupA1", Star Bangla Official
+https://www.dropbox.com/scl/fi/i8wq67ze28k3a3hyh8nxw/lv_0_20260119120310.mp4?rlkey=g2j8gzh4sgrcnl7mv8k2yys69&st=erfxx6pz&raw=1
 
-#EXTINF:-1 tvg-id="08edaaca" tvg-name="ATN News" tvg-logo="https://i.postimg.cc/wMgDBrT2/ATN-News.png" tvg-chno="7" group-title="𝗡𝗘𝗪𝗦",ATN News
-http://172.21.22.23:8080/Webtvservice/Webtvservice/177.m3u8
+Somoy News
 
-#EXTINF:-1 tvg-id="c7608fa9" tvg-name="Channel 24" tvg-logo="https://i.postimg.cc/vmynH2Cr/BD-Channel24.png" tvg-chno="13" group-title="𝗡𝗘𝗪𝗦",Channel 24
-#https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@channel24digital
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/BnLBbpQC/Somoy-News.png", Somoy News
+https://bozztv.com/rongo/rongo-somoy/index.m3u8
 
-#EXTINF:-1 tvg-id="19414441" tvg-name="DBC News 24/7" tvg-logo="https://i.postimg.cc/15JCh6T5/DBC-News.png" tvg-chno="15" group-title="𝗡𝗘𝗪𝗦",DBC News 24/7
-#https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@dbcnewstv
+Jamuna News
 
-#EXTINF:-1 tvg-id="649941fa" tvg-name="Desh TV Live" tvg-logo="https://i.postimg.cc/V60v1jDy/Desh-TV-Live.png" tvg-chno="16" group-title="𝗡𝗘𝗪𝗦",Desh TV Live
-#https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/52YSygNF/Jamuna-Tv-News.png", Jamuna News
+http://172.21.22.23:8080/Webtvservice/Webtvservice/169.m3u8
 
-#EXTINF:-1 tvg-id="90d7bc25" tvg-name="Ekattor TV HD" tvg-logo="https://i.postimg.cc/YqRdQgzB/Ekattor-TV-HD.png" tvg-chno="17" group-title="𝗡𝗘𝗪𝗦",Ekattor TV HD
-#https://entezeetv.fun/bdcast/hls/index.m3u8?id=90d7bc25&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+News 24
 
-#EXTINF:-1 tvg-id="89b4zb3d" tvg-name="Jamuna TV" tvg-logo="https://i.postimg.cc/bNQwgx6r/Jamuna-TV.png" tvg-chno="20" group-title="𝗡𝗘𝗪𝗦",Jamuna TV
-http://172.21.22.23:8080/Webtvservice/Webtvservice/177.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/BnLBbpQP/News-24.png", News 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
-#EXTINF:-1 tvg-id="70znfha3" tvg-name="News24 HD" tvg-logo="https://i.postimg.cc/vB3W9fCS/News24BD.png" tvg-chno="23" group-title="𝗡𝗘𝗪𝗦",News24 HD
-#https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@news24television90
+Ekattor News
 
-#EXTINF:-1 tvg-id="sllfd45v" tvg-name="Independent TV" tvg-logo="https://i.postimg.cc/qB6YsGk3/Independent.png" tvg-chno="27" group-title="𝗡𝗘𝗪𝗦",Independent TV
-http://172.21.22.23:8080/Webtvservice/Webtvservice/178.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/htz1vsPT/71-TV-News.png", Ekattor News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
 
-#EXTINF:-1 tvg-id="h1sf6i2t" tvg-name="News18 Bengali" tvg-logo="https://i.postimg.cc/hv1wR1Ds/News18-Bengali.png" tvg-chno="35" group-title="𝗡𝗘𝗪𝗦",News18 Bengali
-#https://entezeetv.fun/bdcast/hls/index.m3u8?id=h1sf6i2t&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+Channel 24
 
-#EXTINF:-1 tvg-id="fo98ioc0" tvg-name="ABP Ananda" tvg-logo="https://i.postimg.cc/MG2Yt852/ABP-Ananda.png" tvg-chno="41" group-title="𝗡𝗘𝗪𝗦",ABP Ananda
-#https://entezeetv.fun/bdcast/hls/index.m3u8?id=fo98ioc0&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/Nj9kFDf7/Channel-24-News.png", Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
-#EXTINF:-1 tvg-id="93z1f0zv" tvg-name="U Bangla TV" tvg-logo="https://i.postimg.cc/VkXD2g7b/UBangla-TV.png" tvg-chno="44" group-title="𝗡𝗘𝗪𝗦",U Bangla TV
-#https://entezeetv.fun/bdcast/hls/index.m3u8?id=93z1f0zv&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+ATN News
 
-#EXTINF:-1 tvg-id="d60o0c54" tvg-name="Republic Bangla TV" tvg-logo="https://i.postimg.cc/wxJnq4NB/Republic-Bangla.png" tvg-chno="46" group-title="𝗡𝗘𝗪𝗦",Republic Bangla TV
-#https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@RepublicWorld
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/DwJP06yP/ATN-News.png", ATN News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
-#EXTINF:-1 tvg-id="e181c0f8" tvg-name="Kolkata News" tvg-logo="https://i.postimg.cc/0QdZyPnb/ATN-Music-.TV.png" tvg-chno="4" group-title="𝗡𝗘𝗪𝗦",Kolkata News
-#https://entezeetv.fun/bdcast/hls/index.m3u8?id=e181c0f8&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+DBC News
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/Qd9JCmxQ/DBC-News.png", DBC News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+
+Desh Tv News
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/FHdVzps0/Desh-Tv-News.png", Desh News
+http://172.21.22.23:8080/Webtvservice/Webtvservice/168.m3u8
+
+Independent News
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/7YQNqdD0/Independent-News.png", Independent News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+
+Jago News
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.imgur.com/oSqJIYm.jpeg", Jago News 24
+https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+
+RTV News
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/L8Y35D6q/RTV-News.png", RTV News
+http://172.21.22.23:8080/Webtvservice/Webtvservice/174.m3u8
+
+U Bangla
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/yYrT7tBg/U-Bangla.png", U Bangla News
+http://172.21.22.23:8080/Webtvservice/Webtvservice/175.m3u8
+
+Kolkata News
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/zXPkq65f/Kolkata-News.png", Kolkata News
+https://cdn.ottlive.co.in/kolkatatv/index.m3u8
+
+ABP Anando
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/yYrT7tB3/ABP-Anando.png", ABP Anando
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
+
+News 18 Bangla
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/c45cd2Zf/News-18-Bangla.png", News 18 Bangla
+https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
+
+News Time Bangla
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/rFY9q3cw/News-Time-Bangla.png", News Time Bangla
+https://cdn-2.pishow.tv/live/1494/master.m3u8
+
+NK Bangla News
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/sD0J3qy3/NK-Tv-News-Bangla.png", NK Bangla News
+https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8
+
+Republic News
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/Qxnqjwsh/Republic-Tv.png", Republic News
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
+
+TV9 Bangla
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/BQg2vy07/Tv9-Bangla.png", TV9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+
