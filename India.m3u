@@ -13,117 +13,132 @@ http://172.21.22.23:8080/Webtvservice/Webtvservice/195.m3u8
 Zee Action
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/5tzpKg7w/Zee-Action.png", Zee Action
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=85c43e1d&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#https://entezeetv.fun/bdcast/hls/index.m3u8?id=85c43e1d&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
 Zee Cinema
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/ZqNjsH7P/Zee-Cinema.png", Zee Cinema
-http://172.21.22.23:8080/Webtvservice/Webtvservice/181.m3u8
+#http://172.21.22.23:8080/Webtvservice/Webtvservice/181.m3u8
 
 All Time Movie
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/tJq5TjXW/All-Time-Movies.png", All Time Movie
-https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=PuEaOtMSlMNfYjhvwlsz9w&expires=1728493301&user=d477246e9e724f81a011b847457e71c4
+https://mumt03.tangotv.in/Dsly5z3HALLTIMEMOVIES/index.m3u8
 
 B4U Movies
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/C5hN1gFq/B4U-Movies.png", B4U Movies
-https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
+#https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 
 Bflix Movies
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/FzrZR49S/Bflix.png", Bflix Movies
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=AThHfArqU5ggKEQqM1a3Ug&expires=1728493714&user=d477246e9e724f81a011b847457e71c4
+#https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=AThHfArqU5ggKEQqM1a3Ug&expires=1728493714&user=d477246e9e724f81a011b847457e71c4
 
 Colors Cineplex
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/9MtbCMj9/Colors-Cineplex.png", Colors Cineplex
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
+#https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
 
 Colors Cineplex Superhits
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xCy5nCSb/Colors-Cineplex-Superhit.png", Colors Cineplex Superhits
-https://mytvbangla.com/0.m3u8
+#https://mytvbangla.com/0.m3u8
 
 Goldmines
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/0QdnPQqK/Goldmines.png", Goldmines
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=85c43e1d&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+
+Goldmines 2
+
+#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/0QdnPQqK/", Goldmines 2
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+
+Goldmines Movies
+
+#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/0QdnPQqK/", Goldmines Movies
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+
+Goldmines Bollwood
+
+#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc//", Goldmines Bollwood
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
 
 Lotus Macau
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nzY2pztJ/Lotus.png", Lotus Macau
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
+#https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
 
 Sony Max
 
 #EXTINF:-1 group-title="SONY LIVE" tvg-logo="https://i.postimg.cc/mDGjv9KG/Sony-Max.png", Sony Max
-http://172.21.22.23:8080/Webtvservice/Webtvservice/188.m3u8
+#http://172.21.22.23:8080/Webtvservice/Webtvservice/188.m3u8
 
 Sony Max 2
 
 #EXTINF:-1 group-title="SONY LIVE" tvg-logo="https://i.postimg.cc/TwX0zbBM/Sony-Max-2.png", Sony Max 2
-http://172.21.22.23:8080/Webtvservice/Webtvservice/187.m3u8
+#http://172.21.22.23:8080/Webtvservice/Webtvservice/187.m3u8
 
 Sony Pix
 
 #EXTINF:-1 group-title="SONY LIVE" tvg-logo="https://i.postimg.cc/bJjg7nWW/Sony-Pix.png", Sony Pix
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 Sony Sab
 
 #EXTINF:-1 group-title="SONY LIVE" tvg-logo="https://i.postimg.cc/26fGsWMX/Sony-Sab.png", Sony Sab
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=ae7cdb8f&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#https://entezeetv.fun/bdcast/hls/index.m3u8?id=ae7cdb8f&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
 Sony Wah
 
 #EXTINF:-1 group-title="SONY LIVE" tvg-logo="https://i.postimg.cc/j5rcpfm1/Sony-Wah.png", Sony Wah
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=cZtxlaRR&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#https://entezeetv.fun/bdcast/hls/index.m3u8?id=cZtxlaRR&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
 Sony Kal
 
 #EXTINF:-1 group-title="SONY LIVE" tvg-logo="https://i.postimg.cc/pTYCRTMS/Sony-Kal.png", Sony Kal
-http://172.16.200.205:8088/206/index.m3u8
+#http://172.16.200.205:8088/206/index.m3u8
 
 Sony Mathi
 
 #EXTINF:-1 group-title="SONY LIVE" tvg-logo="https://i.postimg.cc/0QqnTShv/Sony-Mathi.png", Sony Mathi
-http://alvetv.com/moviebanglatv/8080/index.m3u8
+#http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 Sony Entertainment
 
 #EXTINF:-1 group-title="SONY LIVE" tvg-logo="https://i.postimg.cc/LXBD2XMF/Sony-Enterment.png", Entertainment
-https://live.hungama.com/linear/dil-se/playlist.m3u8
+#https://live.hungama.com/linear/dil-se/playlist.m3u8
 
 Star Gold
 
 #EXTINF:-1 group-title="STAR LIVE" tvg-logo="https://i.postimg.cc/rmLjB43n/Star-Gold.png", Star Gold
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 Star Gold 2
 
 #EXTINF:-1 group-title="STAR LIVE" tvg-logo="https://i.postimg.cc/W3P8BZCn/Star-Gold-2.png", Star Gold 2
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 Star Gold Romance
 
 #EXTINF:-1 group-title="STAR LIVE" tvg-logo="https://i.postimg.cc/7LzXt9sM/Star-Gold-Romance.png", Star Gold Romance
-https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
+#https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 
 Star Gold Select
 
 #EXTINF:-1 group-title="STAR LIVE" tvg-logo="https://i.postimg.cc/3RH1sGVj/Star-Gold-Select.png", Star Gold Select
-https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=PuEaOtMSlMNfYjhvwlsz9w&expires=1728493301&user=d477246e9e724f81a011b847457e71c4
+#https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=PuEaOtMSlMNfYjhvwlsz9w&expires=1728493301&user=d477246e9e724f81a011b847457e71c4
 
 Star Gold Thrills
 
 #EXTINF:-1 group-title="STAR LIVE" tvg-logo="https://i.postimg.cc/9Mjb69Kt/Star-Gold-Thirills.png", Star Gold Thrills
-https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
+#https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 
 Star Maa
 
 #EXTINF:-1 group-title="STAR LIVE" tvg-logo="https://i.postimg.cc/W3P8BZCg/Star-Maa.png", Star Maa
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=AThHfArqU5ggKEQqM1a3Ug&expires=1728493714&user=d477246e9e724f81a011b847457e71c4
+#https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=AThHfArqU5ggKEQqM1a3Ug&expires=1728493714&user=d477246e9e724f81a011b847457e71c4
 
 Star Movies
 
@@ -133,60 +148,40 @@ http://172.21.22.23:8080/Webtvservice/Webtvservice/189.m3u8
 Star Movies Select
 
 #EXTINF:-1 group-title="STAR LIVE" tvg-logo="https://i.postimg.cc/JhXKYx6Z/Star-Movies-Select.png", Star Movies Select
-https://mytvbangla.com/0.m3u8
+#https://mytvbangla.com/0.m3u8
 
 BBO
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/HnY2xgps/BBO-Playlists.png", BBO
-http://172.21.22.23:8080/Webtvservice/Webtvservice/181.m3u8
+#http://172.21.22.23:8080/Webtvservice/Webtvservice/181.m3u8
 
 HBO
 
 #EXTINF:-1 group-title="HBO LIVE" tvg-logo="https://i.postimg.cc/k4Fsq4d2/HBO.png", HBO
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=85c43e1d&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#https://entezeetv.fun/bdcast/hls/index.m3u8?id=85c43e1d&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
 HBO 2
 
 #EXTINF:-1 group-title="HBO LIVE" tvg-logo="https://i.postimg.cc/ydXjsdzk/HBO2.png", HBO 2
-https://entezeetv.fun/bdcast/hls/index.m3u8
+#https://entezeetv.fun/bdcast/hls/index.m3u8
 
 HBO XTERME
 
 #EXTINF:-1 group-title="HBO LIVE" tvg-logo="https://i.postimg.cc/B6cp46GG/HBO-EXTERME.png", HBO XTERME
-http://172.21.22.23:8080/Webtvservice/Webtvservice/181.m3u8
+#http://172.21.22.23:8080/Webtvservice/Webtvservice/181.m3u8
 
 HBO FAMILY
 
 #EXTINF:-1 group-title="HBO LIVE" tvg-logo="https://i.postimg.cc/Twq0fwX1/HBO-FAMILY.png", HBO FAMILY
-https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=PuEaOtMSlMNfYjhvwlsz9w&expires=1728493301&user=d477246e9e724f81a011b847457e71c4
+#https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=PuEaOtMSlMNfYjhvwlsz9w&expires=1728493301&user=d477246e9e724f81a011b847457e71c4
 
 HBO MAX
 
 #EXTINF:-1 group-title="HBO LIVE" tvg-logo="https://i.postimg.cc/XJcL4J07/HBO-MAX.png", HBO MAX
-https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
+#https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 
 HBO PLUS
 
 #EXTINF:-1 group-title="HBO LIVE" tvg-logo="https://i.postimg.cc/Kzrfxzyb/HBO-PLUS.png", HBO PLUS
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=AThHfArqU5ggKEQqM1a3Ug&expires=1728493714&user=d477246e9e724f81a011b847457e71c4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=AThHfArqU5ggKEQqM1a3Ug&expires=1728493714&user=d477246e9e724f81a011b847457e71c4
 
