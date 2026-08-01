@@ -5,6 +5,16 @@ Star Bangla Official
 #EXTINF:-1 group-title="JOIN OUR TELEGRAM" tvg-logo="https://lh3.googleusercontent.com/u/0/d/1nkYt8oKcr-3ccsZAzxUvqbBuKQKTupA1", Star Bangla Official
 #https://www.dropbox.com/scl/fi/i8wq67ze28k3a3hyh8nxw/lv_0_20260119120310.mp4?rlkey=g2j8gzh4sgrcnl7mv8k2yys69&st=erfxx6pz&raw=1
 
+Sangeet Bangla
+
+#EXTINF:-1 group-title="KOLKATA BANGLA" tvg-logo="https://i.postimg.cc/QMc0Ssvr/Sangeet-Bangla.png", Sangeet Bangla
+http://172.21.22.23:8080/Webtvservice/Webtvservice/183.m3u8
+
+Sangeet Bhojpuri
+
+#EXTINF:-1 group-title="BHOJPURI" tvg-logo="https://i.postimg.cc/9fyJ1VsF/Sangeet-Bojpuri.png", Sangeet Bhojpuri
+https://cdn-4.pishow.tv/live/1293/master.m3u8
+
 Zoom Music
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/JhjPKmv5/Zoom-Music.png", Zoom Music
@@ -13,12 +23,17 @@ https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 Zing Music
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/wBD0FHZk/Zing-Music.png", Zing Music
-http://172.21.22.23:8080/Webtvservice/Webtvservice/187.m3u8
+#http://172.21.22.23:8080
+
+7S Music
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https:///wBD0FHZk/Zing-Music.png", 7S Music
+https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
 
 Zee Music
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/KYtJQFw7/Zee-Music.png", Zee Music
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 YRF Music
 
@@ -45,6 +60,41 @@ Masti
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/TwGQ4FX5/Masti-Music.png", Masti Music
 #http://172.16.200.205:8088/206/index.m3u8
 
+9X Jalwa
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/TwGQ4FX5/Masti-", 9X Jalwa
+https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
+
+9X Jhakaas
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/TwGQ4FX5/Masti-", 9X Jhakaas
+https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8
+
+9X Tashan
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/TwGQ4FX5/Masti-", 9X Tashan
+https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8
+
+Epic Music
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/TwGQ4FX5/Masti-", Epic Music
+https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
+
+PTC Music
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/TwGQ4FX5/Masti-", PTC Music
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+
+Public Music 
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/TwGQ4FX5/Masti-", Public Music 
+https://cdn-3.pishow.tv/live/441/master.m3u8
+
+Punjab Hits
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/TwGQ4FX5/Masti-", Punjab Hits
+https://stream.ottlive.co.in/punjabihits/index.m3u8
+
 Hungama
 
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/ZRcjtHTW/Hungama-Music.png", Hungama Music
@@ -70,25 +120,27 @@ Saregama India
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://i.postimg.cc/R0wXG9yj/Saregama-India.png", Saragama India
 #http://172.16.200.205:8088/206/index.m3u8
 
-Saregama Bojpuri
+Saregama Bhojpuri
 
-#EXTINF:-1 group-title="BOJPURI" tvg-logo="https://i.postimg.cc/R0wXG925/Saregama-Bojpuri.png", Saregama Bojpuri
-https://cdn-4.pishow.tv/live/1293/mastr.m3u8
+#EXTINF:-1 group-title="BHOJPURI" tvg-logo="https://i.postimg.cc/R0wXG925/Saregama-Bojpuri.png", Saregama Bhojpuri
+#https://cdn-4.pishow.tv/live/1293/mastr.m3u8
 
-Sangeet Bojpuri
 
-#EXTINF:-1 group-title="BOJPURI" tvg-logo="https://i.postimg.cc/9fyJ1VsF/Sangeet-Bojpuri.png", Sangeet Bojpuri
-https://cdn-4.pishow.tv/live/1293/master.m3u8
+Sangeet Marathi
 
-Sangeet Bangla
+#EXTINF:-1 group-title="BHOJPURI" tvg-logo="https://i.postimg.cc/9fyJ1VsF/Sangeet-Bojpuri.png", Sangeet Marathi
+https://cdn-3.pishow.tv/live/1229/master.m3u8
 
-#EXTINF:-1 group-title="KOLKATA BANGLA" tvg-logo="https://i.postimg.cc/QMc0Ssvr/Sangeet-Bangla.png", Sangeet Bangla
-http://172.21.22.23:8080/Webtvservice/Webtvservice/183.m3u8
+Songqdew Tv
+
+#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/9fyJ1VsF/-Bojpuri.png", Songqdew Tv
+https://cdn-3.pishow.tv/live/1229/master.m3u8
+
 
 Mon Bangla
 
 #EXTINF:-1 group-title="KOLKATA BANGLA" tvg-logo="https://i.postimg.cc/76DXWdyG/Mon-Bangla-Music.png", Mon Bangla
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 Doom Music
 
@@ -118,35 +170,4 @@ ATN Music
 Kiss Tv
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/bJ8LBWj0/Kiss-Tv-Music.png", Kiss Tv
-#https://mytvbangla.com/0.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
